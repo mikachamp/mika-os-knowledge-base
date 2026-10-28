@@ -1,0 +1,1 @@
+Rename this file to PAUSE.md to stop every agent. Each agent finishes its current step, writes a result note and stops. Delete PAUSE.md to resume.
